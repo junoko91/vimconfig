@@ -69,7 +69,7 @@ set expandtab
 set incsearch
 set printoptions=portrait:n,wrap:n,duplex:off
 set fileencodings=utf-8,euc-kr
-colorscheme desert
+colorscheme office-dark
 
 "==========================
 "= autocmd
